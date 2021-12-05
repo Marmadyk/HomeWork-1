@@ -45,7 +45,7 @@ namespace PhotoSearchTest
             ((ITakesScreenshot)driver).GetScreenshot().SaveAsFile("photoTest.png", ScreenshotImageFormat.Png);
         }
         [TearDown]
-        public void closeBrowser()
+        public void CloseBrowser()
         {
             driver.Quit();
         }

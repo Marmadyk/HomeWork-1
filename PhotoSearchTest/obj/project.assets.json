@@ -4069,11 +4069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/applecity/Desktop/PhotoSearchTest/PhotoSearchTest/PhotoSearchTest.csproj",
+      "projectUniqueName": "/Users/applecity/Desktop/HomeWork/PhotoSearchTest/PhotoSearchTest.csproj",
       "projectName": "PhotoSearchTest",
-      "projectPath": "/Users/applecity/Desktop/PhotoSearchTest/PhotoSearchTest/PhotoSearchTest.csproj",
+      "projectPath": "/Users/applecity/Desktop/HomeWork/PhotoSearchTest/PhotoSearchTest.csproj",
       "packagesPath": "/Users/applecity/.nuget/packages/",
-      "outputPath": "/Users/applecity/Desktop/PhotoSearchTest/PhotoSearchTest/obj/",
+      "outputPath": "/Users/applecity/Desktop/HomeWork/PhotoSearchTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/applecity/.config/NuGet/NuGet.Config"
@@ -4142,7 +4142,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

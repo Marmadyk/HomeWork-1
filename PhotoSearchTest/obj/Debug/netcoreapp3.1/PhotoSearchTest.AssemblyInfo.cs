@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoSearchTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ace7b812bc630f1713aab442cd58fdcefcfb24a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+494207f435d8723ca29adbfa516239bb69747c03")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoSearchTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoSearchTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

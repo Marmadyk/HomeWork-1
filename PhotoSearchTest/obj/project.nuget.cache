@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hC4X7cFqaO6gtcwUQf4JbYdWhQrA/6AM3SB+dMbwAZpEcwuDTdev4SjlAsaGGwr1AzpZsGDfLPlpsG+7iBElA==",
+  "dgSpecHash": "h/59TTiTTjrin97Efrxt25bWde/2ePEtGiOmGNYX5JATDxsrk3IgG+NriQdZRF3jz2W6H5gEXu6DTNQnOm/Xyg==",
   "success": true,
-  "projectFilePath": "/Users/applecity/Desktop/PhotoSearchTest/PhotoSearchTest/PhotoSearchTest.csproj",
+  "projectFilePath": "/Users/applecity/Desktop/HomeWork/PhotoSearchTest/PhotoSearchTest.csproj",
   "expectedPackageFiles": [
     "/Users/applecity/.nuget/packages/microsoft.build.tasks.git/1.1.1/microsoft.build.tasks.git.1.1.1.nupkg.sha512",
     "/Users/applecity/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
